@@ -9,7 +9,7 @@ A fast and reliable browser console script to scan, list, and export the entire 
 - **Easy Command:** Trigger the export menu by simply typing `download`.
 
 ## 🚀 How to use
-1. Open [://ollama.com](https://ollama.com/search)) in Chrome/Edge.
+1. Open [://ollama.com/search](https://ollama.com/search)) in Chrome/Edge.
 2. Press `F12` to open the **Developer Console**.
 3. Copy and paste the code from [script.js](./script.js) and press `Enter`.
 5. Wait for the automatic scan to finish.
